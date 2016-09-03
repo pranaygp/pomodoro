@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "Pomodoro fro your Mac Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranaygp/pomodoro.git"
+  },
+  "author": "Pranay Prakash <pranay.gp@gmail.com> (http://pranayprakash.co)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranaygp/pomodoro/issues"
+  },
+  "homepage": "https://github.com/pranaygp/pomodoro#readme",
+  "dependencies": {
+    "current-processes": "^0.2.1",
+    "lodash": "^4.15.0"
+  }
+}
